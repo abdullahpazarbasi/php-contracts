@@ -1,0 +1,45 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+*.pyc
+._*
+.directory
+
+# OS or IDE specific
+__MACOSX
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.idea
+.tmproj
+*.esproj
+nbproject
+.Spotlight-V100
+.Trashes
+_notes
+*.komodoproject
+.komodotools
+.buildpath
+.vagrant
+
+# VCS
+.hg
+.svn
+.CVS
+
+# Composer
+/composer.lock
+/vendor/
+
+# Docker
+/docker/
